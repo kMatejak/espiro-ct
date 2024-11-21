@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Fresh Theme</title>
+    <title>espiro</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Hugo Fresh Theme</description>
+    <description>Recent content on espiro</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>pl-pl</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diagnoza</title>
+      <link>http://localhost:1313/diagnoza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diagnoza/</guid>
+      <description>&lt;p&gt;• Konsultacja Fizjoterapeutyczna niemowląt/dzieci&lt;br&gt;&#xA;• Rehabilitacja Wrocław Logopedia WrocławKonsultacja Fizjoterapeutyczna dorosłych&lt;br&gt;&#xA;• Całościowa Diagnostyka Rozwojowa&lt;br&gt;&#xA;• Diagnoza Neurologopedyczna&lt;br&gt;&#xA;• Diagnoza Logopedyczna&lt;br&gt;&#xA;• Diagnostyka Postawy Dziecka&lt;br&gt;&#xA;• Monachijska Funkcjonalna Diagnostyka Rozwojowa&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Espiro</title>
+      <link>http://localhost:1313/o-nas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/o-nas/</guid>
+      <description>&lt;p&gt;Jesteśmy grupą terapeutów i lekarzy, których głównym celem jest diagnoza i terapia wielowymiarowa na wszystkich płaszczyznach rozwojowych naszych Pacjentów.&lt;/p&gt;&#xA;&lt;p&gt;Tworzymy zespół w pełnym tego słowa znaczeniu, w którym podstawową zasadą jest współdziałanie. Większość z nas współpracuje z innymi placówkami medycznymi i edukacyjnymi w kraju i za granicą. Znaczną część swojego wolnego czasu poświęcamy na ciągłe poszerzanie naszej wiedzy.&lt;/p&gt;&#xA;&lt;p&gt;Centrum zostało stworzone, aby spełniać potrzeby zarówno najmłodszych, jak i dorosłych.&lt;/p&gt;&#xA;&lt;p&gt;Poza terapią dbamy również o dobrą atmosferę i wypoczynek. W wolnej chwili dzieci mogą bawić się w ogrodzie czy bawialni, a dorośli relaksować się przy kawie.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kontakt/</guid>
+      <description>&lt;p&gt;ESPIRO - centrum terapii&lt;br&gt;&#xA;Ul. Antoniego Knota 8&lt;br&gt;&#xA;54-609 Wrocław (Fabryczna)&lt;br&gt;&#xA;Zapraszamy do kontaktu mailowego &lt;a href=&#34;mailto:espiroct@gmail.com&#34;&gt;espiroct@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;oraz przez fb &lt;a href=&#34;https://www.facebook.com/centrumEspiro&#34;&gt;https://www.facebook.com/centrumEspiro&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;turnusy rehabilitacyjne&lt;br&gt;&#xA;tel. 693 560 344&#xA;mail &lt;a href=&#34;mailto:espiroct@gmail.com&#34;&gt;espiroct@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;godziny otwarcia 8.00-20.00&lt;/p&gt;&#xA;&lt;p&gt;ZAPRASZAMY&lt;/p&gt;&#xA;&lt;iframe style=&#34;border:none&#34; &#xD;&#xA;        src=&#34;https://pl.frame.mapy.cz/s/dosuzocuje&#34; &#xD;&#xA;        width=&#34;400&#34; &#xD;&#xA;        height=&#34;280&#34; &#xD;&#xA;        frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Polecamy</title>
+      <link>http://localhost:1313/polecamy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/polecamy/</guid>
+      <description>&lt;p&gt;• Konsultacja laktacyjne Justyna Walczak &lt;a href=&#34;https://www.wsparcielaktacyjne.pl&#34;&gt;www.wsparcielaktacyjne.pl&lt;/a&gt;&lt;br&gt;&#xA;• Gabinet Psychologiczny Mirosława Niewiarowska &lt;a href=&#34;https://www.gabinetpsychologiczny.wroclaw.pl&#34;&gt;www.gabinetpsychologiczny.wroclaw.pl&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RODO</title>
+      <link>http://localhost:1313/rodo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/rodo/</guid>
+      <description>&lt;p&gt;Polityka Prywatności w Espiro Centrum Terapii&#xA;Polityka prywatności, którą przygotowaliśmy ma na celu przybliżenie Ci wszystkich najważniejszych informacji o tym SKĄD, KIEDY I DLACZEGO zbieramy Twoje dane osobowe. Napiszemy Ci też o tym jakie Twoje dane przetwarzamy. Tutaj też znajdziesz informacje o tym,  czego możesz od nas wymagać i jakie masz prawa.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;W takim razie zaczynajmy&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;RODO (ang. GDPR – General Data Protection Regulation) – to teraz takie modne słowo. Co ono oznacza? Jest to polski skrót określający Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych).&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
