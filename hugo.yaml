@@ -34,13 +34,13 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: espiro. centrum terapii.
+    title: espiro. centrum terapii
     # Hero subtitle (optional)
-    subtitle: Lorem ipsum dolor sit amet, elit, sed do eiusmod tempor incididunt
+    subtitle: Holistyczna diagnoza i rehabilitacja dzieci i dorosłych od 0 do > 100 lat
     # Button text
     buttontext: Umów się na wizytę
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "kontakt"
     # Hero image (from static/images/___)
     # image: illustrations/worker.svg
     image: masowane_001_S.jpg
@@ -120,38 +120,44 @@ params:
     subtitle: Jesteśmy tu dla Was
     tiles:
     - title: Maria Kubińska
-      icon: laptop-cloud
-      text: "Fizjoterapeutka tel. 723 330 297"
+      avatar: maria-kubinska246x300
+      text: Fizjoterapeutka
+      text2: 723 330 297
       url: /
       buttonText: Więcej
     
     - title: Marta Kajrowicz
-      icon: laptop-cloud
-      text: Neurologopedka tel. 600 457 156
+      avatar: martakajrowicz219x300
+      text: Neurologopedka
+      text2: 600 457 156
       url: /
       buttonText: Więcej
     
     - title: Joanna Stańczak-Urbańska
-      icon: laptop-cloud
-      text: Neurologopedka tel. 693 560 344
+      avatar: joannastanczak210x300
+      text: Neurologopedka 
+      text2: 693 560 344
       url: /
       buttonText: Więcej
     
     - title: Galina Majczyk
-      icon: laptop-cloud
-      text: Fizjoterapeutka tel. 504 205 180
-      url: /
-      buttonText: Więcej
-    
-    - title: Agnieszka Kowalczyk
-      icon: laptop-cloud
-      text: Neurologopedka, Terapeutka Intergracji Sensorycznej tel. 603 627 237
+      avatar: galinamajczyk
+      text: Fizjoterapeutka 
+      text2: 504 205 180
       url: /
       buttonText: Więcej
 
     - title: Joanna Katychów
-      icon: laptop-cloud
-      text: Psycholożka tel. 513 278 802
+      avatar: joannakatychow
+      text: Psycholożka 
+      text2: 513 278 802
+      url: /
+      buttonText: Więcej
+    
+    - title: Agnieszka Kowalczyk
+      avatar: agnieszkakowalczyk189x300
+      text: Neurologopedka, Terapeutka Intergracji Sensorycznej 
+      text2: 603 627 237
       url: /
       buttonText: Więcej
 
@@ -214,10 +220,10 @@ params:
     # Social Media Title
     socialmediatitle: Śledź nas
     socialmedia:
-    - link: https://facebook.com/
+    - link: https://www.facebook.com/centrumEspiro
       # Icons are from Font Awesome
       icon: facebook
-    - link: https://instagram.com
+    - link: https://www.instagram.com/espiro_centrum_terapii/
       # Icons are from Font Awesome
       icon: instagram
     bulmalogo: true

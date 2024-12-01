@@ -3,7 +3,7 @@ title: Kontakt
 sidebar: false # or false to display the sidebar
 include_footer: true # or false to display the footer
 ---
-ESPIRO - centrum terapii  
+ESPIRO Centrum Terapii  
 Ul. Antoniego Knota 8  
 54-609 Wrocław (Fabryczna)  
 Zapraszamy do kontaktu mailowego espiroct@gmail.com  
@@ -14,7 +14,7 @@ tel. 693 560 344
 mail espiroct@gmail.com  
 godziny otwarcia 8.00-20.00  
   
-ZAPRASZAMY  
+ZAPRASZAMY
   
 <iframe style="border:none" 
         src="https://pl.frame.mapy.cz/s/dosuzocuje" 
