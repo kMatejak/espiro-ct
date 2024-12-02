@@ -1,4 +1,5 @@
-baseURL: https://espiro-ct.pl/
+baseURL: https://github.com/kMatejak/espiro-ct/
+# baseURL: https://espiro-ct.pl/
 languageCode: pl-pl
 title: espiro
 
@@ -167,9 +168,7 @@ params:
     features:
     - title: Terapia dorosłych
       text: Proponujemy Państwu spotkania z fizjoterapeutami, neurologopedami, logopedami, terapeutami Integracji Sensorycznej, dietetykiem, psychologiem oraz terapeutami karmienia. Jesteśmy zespołem specjalistów z podejściem holistycznym, który ze sobą ściśle współpracuje w zakresie terapii dzieci i dorosłych.
-      # Icon (from static/images/illustrations/icons/___.svg)
-      icon: laptop-globe
-      # icon: maria-kubinska-1-246x300.jpg
+      picture: dorosli
     - title: Terapia dzieci
       text: "Oferujemy multidyscyplinarną diagnozę i terapię niemowląt oraz dzieci, jeżeli jest taka potrzeba, również w formie konsultacji zespołowej, w tym jest to:<br /> 
       • diagnoza oraz wspieranie w prawidłowym rozwoju ruchowym<br /> 
@@ -178,10 +177,10 @@ params:
       • terapia ręki i terapia wzroku<br />
       • sensomotoryka oraz<br />
       • pomoc psychologiczno-pedagogiczna dla dziecka i jego rodziny już od pierwszych dni życia"
-      icon: doc-sync
+      picture: dzieci
     - title: Turnusy rehabilitacyjne
       text: Zapraszamy na multiturnusy grupowe oraz indywidualne. Rodzaje terapii oraz intensywność turnusu są indywidualnie dostosowywane do potrzeb Pacjenta po interdyscyplinarnej diagnozie przeprowadzonej przez zespół terapeutyczny. Proponujemy cykle jedno- lub dwutygodniowe. W czasie turnusu równoważymy zajęcia wymagające intensywnej pracy z aktywnościami rozluźniającymi, aby umożliwić Uczestnikom czerpanie jak największych korzyści z rehabilitacji.
-      icon: mobile-feed
+      picture: turnusy
 
   # section3:
   #   title: One platform

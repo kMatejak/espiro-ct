@@ -8011,7 +8011,8 @@ img.pushed-image {
   .media.icon-box .media-content .content p .icon-box-text {
     color: #A9ABAC;
     font-size: 1rem;
-    font-weight: 400; }
+    font-weight: 400;
+    max-width: 424px; }
 
 .wrapped-gallery {
   flex-wrap: wrap; }
@@ -8557,7 +8558,7 @@ Testimonials Styles
 /* ==========================================================================
 Responsive Styles
 ========================================================================== */
-@media (max-width: 767px) {
+@media (max-width: 769px) {
   .landing-caption {
     text-align: center; }
   .navbar-menu .is-static {
@@ -8580,16 +8581,26 @@ Responsive Styles
   .pushed-image {
     margin-top: 0 !important; }
   .testimonial {
-    margin: 0 auto; } }
+    margin: 0 auto; }
+  .media {
+    display: flex;
+    flex-direction: column-reverse; }
+    .media .media-left {
+      margin-top: 1rem;
+      margin-right: 0; }
+    .media .media-content {
+      margin-top: 2rem; }
+  .offer-list {
+    margin-top: 0 !important; } }
 
-@media screen and (min-width: 768px) and (max-width: 925px), print {
+@media screen and (min-width: 769px) and (max-width: 925px), print {
   .wrapped-gallery:not(.is-desktop) {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-left: -2.25rem; } }
 
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) and (orientation: portrait) {
   .landing-caption {
     text-align: center; }
   .navbar-menu .is-static {
@@ -8612,6 +8623,32 @@ Responsive Styles
     text-align: center !important; }
     .is-centered-tablet-portrait .divider {
       margin: 0 auto !important; } }
+
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+  .media {
+    display: flex;
+    flex-direction: column-reverse; }
+    .media .media-left {
+      margin-top: .6rem; } }
+
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1330px) {
+  .media {
+    display: flex;
+    flex-direction: row; }
+    .media .media-left {
+      margin-top: 2.75rem;
+      margin-left: -18rem; } }
+
+@media only screen and (min-device-width: 1331px) {
+  .media {
+    display: flex;
+    flex-direction: row;
+    margin-top: 4rem; }
+    .media .media-left {
+      margin-top: 3rem;
+      margin-left: -18rem; }
+    .media .media-content {
+      padding-left: .25rem; } }
 
 section:focus {
   outline: none !important; }

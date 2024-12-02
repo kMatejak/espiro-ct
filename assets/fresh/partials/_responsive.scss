@@ -2,7 +2,7 @@
 Responsive Styles
 ========================================================================== */
 
-@media (max-width: 767px) {
+@media (max-width: 769px) {
 
     .landing-caption {
         text-align: center;
@@ -39,10 +39,28 @@ Responsive Styles
     .testimonial {
         margin: 0 auto;
     }
+
+    .media {
+        display: flex;
+        flex-direction: column-reverse; 
+
+        .media-left {
+            margin-top: 1rem;
+            margin-right: 0;
+        }
+
+        .media-content {
+            margin-top: 2rem;
+        }
+    }
+
+    .offer-list {
+        margin-top: 0 !important;
+    }
 }
 
 
-@media screen and (min-width: 768px) and (max-width: 925px), print {
+@media screen and (min-width: 769px) and (max-width: 925px), print {
     .wrapped-gallery:not(.is-desktop) {
         display: flex;
         flex-direction: column;
@@ -52,7 +70,10 @@ Responsive Styles
 }
 
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+@media only screen and (min-device-width: 769px) 
+                   and (max-device-width: 1024px) 
+                   and (orientation: portrait) 
+{
     .landing-caption {
         text-align: center;
     }
@@ -85,6 +106,54 @@ Responsive Styles
         text-align: center !important;
         .divider {
             margin: 0 auto !important;
+        }
+    }
+}
+
+
+@media only screen and (min-device-width: 769px) 
+                   and (max-device-width: 1024px) 
+{
+    .media {
+        display: flex;
+        flex-direction: column-reverse; 
+
+        .media-left {
+            margin-top: .6rem;
+        }
+    }
+}
+
+
+@media only screen and (min-device-width: 1025px) 
+                   and (max-device-width: 1330px) 
+{
+    .media {
+        display: flex;
+        flex-direction: row; 
+
+        .media-left {
+            margin-top: 2.75rem;
+            margin-left: -18rem;
+        }
+    }
+}
+
+
+@media only screen and (min-device-width: 1331px) 
+{
+    .media {
+        display: flex;
+        flex-direction: row;
+        margin-top: 4rem;
+
+        .media-left {
+            margin-top: 3rem;
+            margin-left: -18rem;
+        }
+
+        .media-content {
+            padding-left: .25rem;
         }
     }
 }
