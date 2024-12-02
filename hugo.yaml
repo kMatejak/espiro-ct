@@ -1,6 +1,8 @@
-baseURL: "https://kmatejak.github.io/espiro-ct/"
+baseURL: "https://kmatejak.github.io/espiro-ct"
+# baseURL: ""
 languageCode: pl-pl
 title: espiro
+# relativeURLs: true
 
 theme: 'hugo-fresh'
 
