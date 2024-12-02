@@ -1,7 +1,8 @@
-baseURL: https://kmatejak.github.io/espiro-ct
+baseURL: https://kmatejak.github.io/espiro-ct/
 # baseURL: https://espiro-ct.pl
 languageCode: pl-pl
 title: espiro
+relativeURLs: true
 
 theme: 'hugo-fresh'
 
@@ -26,7 +27,7 @@ params:
   # Logo (from static/images/logos/___)
     # image: logos/fresh.svg
     image: logos/espiro_logo_full.png
-    link: /
+    link: "/"
     # Default width/height. Uncomment if you need to change
     width: 112
     height: 28
@@ -61,15 +62,15 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Strona główna
-    url: /
+    url: "/"
   - title: O nas
-    url: /o-nas
+    url: "/o-nas"
   - title: Diagnoza
-    url: /diagnoza
+    url: "/diagnoza"
   - title: Polecamy
-    url: /polecamy
+    url: "/polecamy"
   - title: Kontakt
-    url: /kontakt
+    url: "/kontakt"
     button: true
 
   # - title: Dropdown
@@ -124,42 +125,42 @@ params:
       avatar: maria-kubinska246x300
       text: Fizjoterapeutka
       text2: 723 330 297
-      url: /
+      url: "/"
       buttonText: Więcej
     
     - title: Marta Kajrowicz
       avatar: martakajrowicz219x300
       text: Neurologopedka
       text2: 600 457 156
-      url: /
+      url: "/"
       buttonText: Więcej
     
     - title: Joanna Stańczak-Urbańska
       avatar: joannastanczak210x300
       text: Neurologopedka 
       text2: 693 560 344
-      url: /
+      url: "/"
       buttonText: Więcej
     
     - title: Galina Majczyk
       avatar: galinamajczyk
       text: Fizjoterapeutka 
       text2: 504 205 180
-      url: /
+      url: "/"
       buttonText: Więcej
 
     - title: Joanna Katychów
       avatar: joannakatychow
       text: Psycholożka 
       text2: 513 278 802
-      url: /
+      url: "/"
       buttonText: Więcej
     
     - title: Agnieszka Kowalczyk
       avatar: agnieszkakowalczyk189x300
       text: Neurologopedka, Terapeutka Intergracji Sensorycznej 
       text2: 603 627 237
-      url: /
+      url: "/"
       buttonText: Więcej
 
   section2:
@@ -231,26 +232,26 @@ params:
         title: "Oferta"
         links:
         - text: Pierwsza
-          link: /
+          link: "/"
         - text: Druga
-          link: /
+          link: "/"
         - text: Trzecia
-          link: /
+          link: "/"
         - text: Mapa strony
-          link: /
+          link: "/"
         - text: RODO
-          link: /rodo
+          link: "/rodo"
       column2:
         title: "Polecamy"
         links:
         - text: Gabinety
-          link: /
+          link: "/"
         - text: Inne polecane
-          link: /
+          link: "/"
       column3:
         title: "Blog"
         links:
         - text: Najnowsze
-          link: /
+          link: "/"
         - text: Najczęściej czytane
-          link: /
+          link: "/"
