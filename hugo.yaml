@@ -2,7 +2,7 @@ baseURL: https://kmatejak.github.io/espiro-ct/
 # baseURL: https://espiro-ct.pl
 languageCode: pl-pl
 title: espiro
-relativeURLs: true
+# relativeURLs: true
 
 theme: 'hugo-fresh'
 
