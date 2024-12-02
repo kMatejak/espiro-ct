@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kmatejak.github.io/diagnoza/</loc>
+    <loc>http://localhost:1313/diagnoza/</loc>
   </url><url>
-    <loc>https://kmatejak.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://kmatejak.github.io/o-nas/</loc>
+    <loc>http://localhost:1313/o-nas/</loc>
   </url><url>
-    <loc>https://kmatejak.github.io/kontakt/</loc>
+    <loc>http://localhost:1313/kontakt/</loc>
   </url><url>
-    <loc>https://kmatejak.github.io/polecamy/</loc>
+    <loc>http://localhost:1313/polecamy/</loc>
   </url><url>
-    <loc>https://kmatejak.github.io/rodo/</loc>
+    <loc>http://localhost:1313/rodo/</loc>
   </url>
 </urlset>

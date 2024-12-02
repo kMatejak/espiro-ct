@@ -62,15 +62,15 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Strona główna
-    url: /
+    url: "/espiro-ct"
   - title: O nas
-    url: "o-nas"
+    url: "/espiro-ct/o-nas"
   - title: Diagnoza
-    url: "diagnoza"
+    url: "/espiro-ct/diagnoza"
   - title: Polecamy
-    url: "polecamy"
+    url: "/espiro-ct/polecamy"
   - title: Kontakt
-    url: "kontakt"
+    url: "/espiro-ct/kontakt"
     button: true
 
   # - title: Dropdown
