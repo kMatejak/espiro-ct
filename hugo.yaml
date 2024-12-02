@@ -2,7 +2,6 @@ baseURL: "https://kmatejak.github.io/"
 # baseURL: ""
 languageCode: pl-pl
 title: espiro
-# relativeURLs: true
 
 theme: 'hugo-fresh'
 
@@ -27,7 +26,7 @@ params:
   # Logo (from static/images/logos/___)
     # image: logos/fresh.svg
     image: logos/espiro_logo_full.png
-    link: "/"
+    link: "/espiro-ct"
     # Default width/height. Uncomment if you need to change
     width: 112
     height: 28
@@ -125,42 +124,42 @@ params:
       avatar: maria-kubinska246x300
       text: Fizjoterapeutka
       text2: 723 330 297
-      url: "/"
+      url: "/espiro-ct"
       buttonText: Więcej
     
     - title: Marta Kajrowicz
       avatar: martakajrowicz219x300
       text: Neurologopedka
       text2: 600 457 156
-      url: "/"
+      url: "/espiro-ct"
       buttonText: Więcej
     
     - title: Joanna Stańczak-Urbańska
       avatar: joannastanczak210x300
       text: Neurologopedka 
       text2: 693 560 344
-      url: "/"
+      url: "/espiro-ct"
       buttonText: Więcej
     
     - title: Galina Majczyk
       avatar: galinamajczyk
       text: Fizjoterapeutka 
       text2: 504 205 180
-      url: "/"
+      url: "/espiro-ct"
       buttonText: Więcej
 
     - title: Joanna Katychów
       avatar: joannakatychow
       text: Psycholożka 
       text2: 513 278 802
-      url: "/"
+      url: "/espiro-ct"
       buttonText: Więcej
     
     - title: Agnieszka Kowalczyk
       avatar: agnieszkakowalczyk189x300
       text: Neurologopedka, Terapeutka Intergracji Sensorycznej 
       text2: 603 627 237
-      url: "/"
+      url: "/espiro-ct"
       buttonText: Więcej
 
   section2:
@@ -232,26 +231,26 @@ params:
         title: "Oferta"
         links:
         - text: Pierwsza
-          link: "/"
+          link: "/espiro-ct"
         - text: Druga
-          link: "/"
+          link: "/espiro-ct"
         - text: Trzecia
-          link: "/"
+          link: "/espiro-ct"
         - text: Mapa strony
-          link: "/"
+          link: "/espiro-ct"
         - text: RODO
-          link: "/rodo"
+          link: "/espiro-ct/rodo"
       column2:
         title: "Polecamy"
         links:
         - text: Gabinety
-          link: "/"
+          link: "/espiro-ct"
         - text: Inne polecane
-          link: "/"
+          link: "/espiro-ct"
       column3:
         title: "Blog"
         links:
         - text: Najnowsze
-          link: "/"
+          link: "/espiro-ct"
         - text: Najczęściej czytane
-          link: "/"
+          link: "/espiro-ct"
