@@ -1,5 +1,5 @@
-baseURL: https://kmatejak.github.io/espiro-ct/
-# baseURL: https://espiro-ct.pl/
+baseURL: https://kmatejak.github.io/espiro-ct
+# baseURL: https://espiro-ct.pl
 languageCode: pl-pl
 title: espiro
 
@@ -251,6 +251,6 @@ params:
         title: "Blog"
         links:
         - text: Najnowsze
-          link: /blog/first
+          link: /
         - text: Najczęściej czytane
-          link: /blog/second
+          link: /
