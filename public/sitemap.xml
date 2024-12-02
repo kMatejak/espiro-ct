@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/diagnoza/</loc>
+    <loc>https://kmatejak.github.io/espiro-ct/diagnoza/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kmatejak.github.io/espiro-ct/</loc>
   </url><url>
-    <loc>http://localhost:1313/o-nas/</loc>
+    <loc>https://kmatejak.github.io/espiro-ct/o-nas/</loc>
   </url><url>
-    <loc>http://localhost:1313/kontakt/</loc>
+    <loc>https://kmatejak.github.io/espiro-ct/kontakt/</loc>
   </url><url>
-    <loc>http://localhost:1313/polecamy/</loc>
+    <loc>https://kmatejak.github.io/espiro-ct/polecamy/</loc>
   </url><url>
-    <loc>http://localhost:1313/rodo/</loc>
+    <loc>https://kmatejak.github.io/espiro-ct/rodo/</loc>
   </url>
 </urlset>
