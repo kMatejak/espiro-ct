@@ -64,13 +64,13 @@ params:
   - title: Strona główna
     url: /
   - title: O nas
-    url: "/o-nas"
+    url: "o-nas"
   - title: Diagnoza
-    url: "/diagnoza"
+    url: "diagnoza"
   - title: Polecamy
-    url: "/polecamy"
+    url: "polecamy"
   - title: Kontakt
-    url: "/kontakt"
+    url: "kontakt"
     button: true
 
   # - title: Dropdown
