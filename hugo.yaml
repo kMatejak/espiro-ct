@@ -1,4 +1,4 @@
-baseURL: "https://kmatejak.github.io/espiro-ct"
+baseURL: "https://kmatejak.github.io/"
 # baseURL: ""
 languageCode: pl-pl
 title: espiro
@@ -62,7 +62,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Strona główna
-    url: "/"
+    url: /
   - title: O nas
     url: "/o-nas"
   - title: Diagnoza
